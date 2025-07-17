@@ -6,4 +6,5 @@ Este es un MVP de aplicación web para crear, aplicar y calificar exámenes de m
 
 ## 👨‍💻 Autor
 
-Desarrollado por [Tu nombre o usuario GitHub]
+Desarrollado por [
+escavi o usuario GitHub]
